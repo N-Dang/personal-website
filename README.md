@@ -1,4 +1,5 @@
 # Personal Website
+A simple personal website created with HTML and CSS.
 
 ## Description
 This project is a simple personal website created using HTML and CSS. It introduces who I am and shows my progress in learning web development.
